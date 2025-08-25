@@ -22,7 +22,7 @@ Here's a walkthrough of implemented features:
 <img src='Video/Appwalkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ScreenToGIF  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -30,7 +30,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+My biggest challenge while creating this app that I can say I encountered was the writing out my script files. I also had to work and play around with tmy CSS file at times.
 
 ## License
 
